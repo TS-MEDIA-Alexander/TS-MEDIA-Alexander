@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd0134b9.css",
+    "main.css": "/static/css/main.2e83ca88.css",
     "main.js": "/static/js/main.84d1e258.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/governor_moscow_region.png": "/static/media/governor_moscow_region.a86efdde15c456ba928a.png",
@@ -44,12 +44,12 @@
     "static/media/arrowYellow.svg": "/static/media/arrowYellow.23d9e9fdfd85b54db0e41c278a26c1e4.svg",
     "static/media/government_link_button.svg": "/static/media/government_link_button.23d9e9fdfd85b54db0e41c278a26c1e4.svg",
     "static/media/arrow_down.svg": "/static/media/arrow_down.1a876b387cf3ab42059c.svg",
-    "main.cd0134b9.css.map": "/static/css/main.cd0134b9.css.map",
+    "main.2e83ca88.css.map": "/static/css/main.2e83ca88.css.map",
     "main.84d1e258.js.map": "/static/js/main.84d1e258.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd0134b9.css",
+    "static/css/main.2e83ca88.css",
     "static/js/main.84d1e258.js"
   ]
 }
